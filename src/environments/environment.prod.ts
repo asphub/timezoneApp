@@ -1,3 +1,6 @@
 export const environment = {
-  production: true
+  production: true,
+  format: {
+    time: "YYYY MMMM DD hh:mm:ss a"
+  }
 };

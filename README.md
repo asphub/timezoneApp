@@ -1,4 +1,6 @@
-# MomentTimezone
+# TimeZoneApp
+
+Time Zone Utility Tool developed to get LIVE time of all countries Offline filtered by each Country and its all timeZones.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
